@@ -361,7 +361,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Tejas Kiran Savla**
+**Shubham Lalit Jha**
 
 - Email: [jhashubham035@gmail.com](mailto:jhashubham035@gmail.com)
 - GitHub: [@Shubhamcoderr08](https:github.com/Shubhamcoderr08)
